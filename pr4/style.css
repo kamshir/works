@@ -1,0 +1,72 @@
+body * {
+    border: 1px solid #000000;
+    text-align: center;
+    background-color: #fff;
+    font-size: 20px;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+}
+
+app-content {
+    display: none;
+}
+
+span {
+    border: none;
+    display: inline-table;
+    background-color: transparent;
+}
+
+.header {
+    width: 900px;
+    height: 125px;
+    color: red;
+}
+
+.empty {
+    width: 900px;
+    height: 30px;
+    border: none;
+    line-height: 0;
+    color: #000;
+}
+
+.flexBox {
+    display: flex;
+    border: none;
+}
+
+.vertEmpty {
+    width: 30px;
+    border: none;
+}
+
+.gorMenu {
+    width: 900px;
+    height: 35px;
+    color: lightseagreen;
+}
+
+.siteBody {
+    width: 612px;
+    height: 500px;
+    color: green;
+}
+
+.vertMenu {
+    width: 258px;
+    height: 500px;
+    color: lightseagreen;
+}
+
+.footer {
+    width: 900px;
+    height: 190px;
+    color: red;
+}
+
+.inline {
+    display: inline-flex;
+    justify-content: center;
+}

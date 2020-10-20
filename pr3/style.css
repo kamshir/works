@@ -1,0 +1,60 @@
+body * {
+    border: 1px solid #000000;
+    text-align: center;
+}
+
+app-content {
+    display: none;
+}
+
+h1 {
+    border: none;
+}
+
+.header {
+    width: 900px;
+    height: 125px;
+    color: red;
+}
+
+.empty {
+    width: 900px;
+    height: 30px;
+    border: none;
+}
+
+.vertEmpty {
+    width: 30px;
+    height: 500px;
+    border: none;
+}
+
+.gorMenu {
+    width: 900px;
+    height: 35px;
+    color: lightseagreen;
+    font-size: 8px;
+}
+
+.siteBody {
+    width: 612px;
+    height: 500px;
+    color: green;
+}
+
+.vertMenu {
+    width: 258px;
+    height: 500px;
+    color: lightseagreen;
+}
+
+.footer {
+    width: 900px;
+    height: 190px;
+    color: red;
+}
+
+.inline {
+    display: inline-flex;
+    justify-content: center;
+}
